@@ -11,5 +11,5 @@
 
 ## Documentation
 
-- 📄 [Project Report](docs/VLSI INNOVATORS.docx)
-- 📊 [Project Presentation](docs/VLSI INNOVATORS.pptx)
+- 📄 [Project Report](docs/VLSI_INNOVATORS.docx)
+- 📊 [Project Presentation](docs/VLSI_INNOVATORS.pptx)
